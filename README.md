@@ -1,9 +1,14 @@
-- 👋 Hi, I’m @welota
+# 👋 Hi, I’m **welota**
 - 👀 I’m interested in programing games
-- 🌱 I’m currently learning python/ (html/css/js)/ c++/ visual basic
-- 📫 How to reach me @welota in discord
+- 🛣️ Currently I can handle:
+  * python
+  * html/css/js
+  * c++
+  * visual basic
+  * lua/luau
+- 📫 How to reach me: @welota in discord
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: hello
+- ⚡ Fun fact: __hello__
 
 <!---
 welota/welota is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
