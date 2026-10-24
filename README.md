@@ -4,7 +4,6 @@
   * python
   * html/css/js
   * c++
-  * visual basic
   * lua/luau
 - 📫 How to reach me: @welota in discord
 - 😄 Pronouns: he/him
